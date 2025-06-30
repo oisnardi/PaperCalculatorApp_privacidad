@@ -1,0 +1,1 @@
+# PaperCalculatorApp_privacidad
